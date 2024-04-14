@@ -1,0 +1,54 @@
+commit 6c39e97492d876c37df383245d8a3bcb0a601ad2
+Merge: c0f811d ab94184
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:36:29 2024 +0200
+
+    Fix
+
+commit c0f811d5a3af27f56f7a3e20b0f6a8bd06d3cfc3
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:24:55 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d78f914cdc67dcfcb32350ed214650698fc15921
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:14:57 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ab94184ab0a57906ddf9b10772cecd3a3e3b374c
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:18:39 2024 +0200
+
+     Call method makeBigStringFrom in main class.
+
+commit 618b8719e3c89f9c31d1938418a59428b4c37867
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:16:55 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit fc490f369f808f0d3ce0ce02255fa271a71f8978
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:14:57 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7db61c56c1ca7b86b1899c52c9b8242a77eb1aa5
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:14:07 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 98a98d98c5ab9cfcee517e1e1f45c73835a9a1a1
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:12:22 2024 +0200
+
+    Add starter code
+
+commit 574659d349a6b6b26cb9cb69841dcdac15b75792
+Author: Your Name <you@example.com>
+Date:   Sun Apr 14 13:09:44 2024 +0200
+
+    Initial commit
